@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "nodemon src/server.js",
     "start": "node src/server.js",
-    "build": "rm -rf build"
   },
   "keywords": [],
   "author": "",
